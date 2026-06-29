@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CodeTogether</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_community">커뮤니티</string>
+    <string name="nav_profile">내 정보</string>
+</resources>

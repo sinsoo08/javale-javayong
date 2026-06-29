@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_fragment_home.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_activity_question_list.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/activity_question_list.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.codetogether.app-main-51:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_item_channel.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/item_channel.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.codetogether.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_fragment_profile.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.codetogether.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_tag_bg.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/tag_bg.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_category_bg.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/category_bg.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/navigation_nav_graph.xml.flat",
+        "source": "com.codetogether.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_accepted_bg.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/accepted_bg.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_input_bg.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_activity_question_detail.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/activity_question_detail.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_activity_ask_question.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/activity_ask_question.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/drawable_circle_bg.xml.flat",
+        "source": "com.codetogether.app-main-51:/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_item_post.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_item_comment.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_activity_main.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codetogether.app-debug-49:/layout_fragment_community.xml.flat",
+        "source": "com.codetogether.app-main-51:/layout/fragment_community.xml"
+    }
+]

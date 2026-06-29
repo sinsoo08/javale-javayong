@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6B35</color>
+    <color name="accepted_bg">#E8F5E9</color>
+    <color name="accepted_color">#2E7D32</color>
+    <color name="background_light">#F5F6FA</color>
+    <color name="black">#000000</color>
+    <color name="code_bg">#1E1E2E</color>
+    <color name="code_indicator">#6C7CE8</color>
+    <color name="code_text">#CDD6F4</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="primary">#4A6CF7</color>
+    <color name="primary_dark">#3558E8</color>
+    <color name="primary_light">#EEF1FF</color>
+    <color name="text_hint">#9E9EBE</color>
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#5A5A7A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">CodeTogether</string>
+    <string name="nav_community">커뮤니티</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_profile">내 정보</string>
+    <style name="Theme.CodeTogether" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>

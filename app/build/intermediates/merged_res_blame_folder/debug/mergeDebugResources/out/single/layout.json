@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/activity_question_list.xml",
+        "source": "com.codetogether.app-main-51:/layout/activity_question_list.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/item_post.xml",
+        "source": "com.codetogether.app-main-51:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.codetogether.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/item_channel.xml",
+        "source": "com.codetogether.app-main-51:/layout/item_channel.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/fragment_profile.xml",
+        "source": "com.codetogether.app-main-51:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/item_comment.xml",
+        "source": "com.codetogether.app-main-51:/layout/item_comment.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/activity_ask_question.xml",
+        "source": "com.codetogether.app-main-51:/layout/activity_ask_question.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.codetogether.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/fragment_community.xml",
+        "source": "com.codetogether.app-main-51:/layout/fragment_community.xml"
+    },
+    {
+        "merged": "com.codetogether.app-mergeDebugResources-48:/layout/activity_question_detail.xml",
+        "source": "com.codetogether.app-main-51:/layout/activity_question_detail.xml"
+    }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.codetogether.ui.home.HomeFragment"
+        android:label="홈"
+        tools:layout="@layout/fragment_home"
+        xmlns:tools="http://schemas.android.com/tools" />
+
+    <fragment
+        android:id="@+id/communityFragment"
+        android:name="com.codetogether.ui.community.CommunityFragment"
+        android:label="커뮤니티"
+        tools:layout="@layout/fragment_community"
+        xmlns:tools="http://schemas.android.com/tools" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.codetogether.ui.profile.ProfileFragment"
+        android:label="내 정보"
+        tools:layout="@layout/fragment_profile"
+        xmlns:tools="http://schemas.android.com/tools" />
+
+</navigation>
